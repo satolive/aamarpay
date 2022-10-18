@@ -21,5 +21,5 @@ $paystatus=$a['pay_status'];
 $mid=$a['mer_txnid'];
 $status=$a['status_code'];
 
-
+console.log("...")
 ?>
