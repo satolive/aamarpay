@@ -14,6 +14,7 @@ if($_SERVER['REQUEST_METHOD']=="POST" && isset($_POST['submit'])){
    
 }
 
+console.log("...")
 
 function rand_string( $length ) {
 	$str="";
